@@ -46,6 +46,9 @@ export default function Home() {
       <p>
         <Link href="/shadow-dom">shadow-dom</Link>
       </p>
+      <p>
+          <Link href="/bugfix">bugfix demo</Link>
+      </p>
       <h2>readme</h2>
       <div
         className="markdown-body"
